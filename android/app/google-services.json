@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402376279219",
+    "project_id": "course-7d358",
+    "storage_bucket": "course-7d358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402376279219:android:5b3c69dba4a01d86a6dcc6",
+        "android_client_info": {
+          "package_name": "com.ahmedkroa.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402376279219-kmgd0afio50pjvc6ka7v5ikgb9nsee3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTG1HxxzZaWgRa_j1WLPrAITapqt6gow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402376279219-kmgd0afio50pjvc6ka7v5ikgb9nsee3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
